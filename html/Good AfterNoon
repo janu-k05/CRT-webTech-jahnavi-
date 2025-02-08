@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF.8">
+  <meta name="view point" content="width=device width",initial-scale=1.0">
+ <title>Good AfterNoon </title>
+</head>
+<body>
+<h1> Good AfterNoon</h1>
+<h1> my name is jahnavi</h1>
+<h1> i'm learning html-hyper textmarkup language</h1>
+<h1> i have learnt about heading tags</h1>
+<p>
+    <pre>
+        <h1> <h1>---heading1</h1>
+        <h1> <h2>---heading2</h1>
+            
+    </pre>
+</p>
+</body>
+</html>3

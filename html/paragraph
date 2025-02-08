@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF.8">
+  <meta name="view point" content="width=device width",initial-scale=1.0">
+ <title>paragraph Tags </title>
+</head>
+<body>
+<h1>Example for paragraph Tag</h1>
+<p>
+    <pre>
+        HTML stands for Hyper text Markup language
+        HTML is the standard startup language for creating
+    </pre>
+</p>
+</body>
+</html>3
+                                                                           
+                                                                           
+                                                                           
